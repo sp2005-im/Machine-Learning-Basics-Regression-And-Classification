@@ -1,3 +1,11 @@
+#Sri Rama Jayam
+#PINN for the Heat Equation
+import numpy as np
+import matplotlib.pyplot as plt
+import torch
+import torch.nn as nn
+import torch.optim as optim
+
 class HeatEquationPINN(nn.Module):
   def __init__(self, num_layer = 4, hidden_size = 20):
     super(HeatEquationPINN,self).__init__()
