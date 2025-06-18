@@ -1,2 +1,5 @@
-# Machine-Learning-Basics-Regression-And-Classification
-Regression and Classification Programs
+Contains:
+Linear Regression
+Polynomial Regression
+Trajectory Prediction using PIV Data - Microfluidic CTC Channel
+Simulations involving Physics Informed Neural Networks
